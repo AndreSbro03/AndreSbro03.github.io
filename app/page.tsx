@@ -200,7 +200,7 @@ export default function Home() {
       {/* ─── FOOTER ─── */}
       <footer className="w-full border-t border-zinc-800 bg-zinc-950 py-8 px-6 mt-12">
         <div className="max-w-6xl mx-auto flex flex-col sm:flex-row items-center justify-between gap-4 text-sm text-zinc-400">
-          <p>© {new Date().getFullYear()} Andrea Sbrogiò. All rights reserved.</p>
+          <p>© 2026 Andrea Sbrogiò. All rights reserved.</p>
 
           <div className="flex items-center gap-6">
             <a
